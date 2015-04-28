@@ -1,0 +1,11 @@
+;;(setq mac-command-modifier 'meta)
+;;(setq mac-option-modifier 'super)
+
+(disable-theme 'zenburn)
+(setq prelude-theme 'solarized-dark)
+(set-default-font "Inconsolata for Powerline 14")
+(toggle-scroll-bar -1)
+(global-linum-mode 1)
+(setq tab-width 2)
+(setq-default tab-width 2)
+(setq whitespace-line-column 95)
